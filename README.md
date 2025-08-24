@@ -32,7 +32,7 @@ I use it to track my progress, practice coding, and improve problem-solving skil
 ---
 
 ## ✅ Progresss
-- [2] Easy Problems
+- [3] Easy Problems
 - [ ] Medium Problems
 - [ ] Hard Problems
 
